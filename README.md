@@ -18,7 +18,7 @@ Mon Projet Awesome est un programme Python conçu pour automatiser la création 
 Le programme est conçu pour suivre une approche modulaire et organisée :
 
 - Les répertoires sont créés en utilisant des commandes système via Python.
-- Le fichier `prog` contient le code principal du programme.
+- Le fichier `main.py` contient le code principal du programme.
 - Le fichier `src/utils.py` contient des fonctions utilitaires pour les opérations courantes.
 - Des tickets (issues) sont utilisés pour organiser les tâches et assurer le suivi du développement.
 - Le code est organisé et commenté pour améliorer la lisibilité et la maintenabilité.
@@ -26,7 +26,7 @@ Le programme est conçu pour suivre une approche modulaire et organisée :
 ## Utilisation
 
 1. Clonez ce dépôt sur votre machine locale.
-2. Exécutez `prog` pour créer la structure d'arborescence du projet.
+2. Exécutez `main.py` pour créer la structure d'arborescence du projet.
 3. Explorez le notebook `notebooks/main.ipynb` pour découvrir les fonctionnalités du programme.
 
 ## Auteur
