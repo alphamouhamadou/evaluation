@@ -1,0 +1,6 @@
+
+def main():
+    print("Le programme a été exécuté avec succès !")
+
+if __name__ == "__main__":
+    main()
